@@ -1,4 +1,3 @@
-# Mother-s-Day-Blog
 ## Prototype of the Website
 https://www.figma.com/proto/lb58Xlbf84NpBt6y55qCwb/Mother-s-Day?node-id=0-1&t=KvbG0swXUaHmGLTs-1
 ## Link for published site
